@@ -28,7 +28,7 @@ Este projeto oferece insights valiosos sobre o impacto econômico de investiment
 
 ### Resultado
 
-![alt text](Graph1.png)
+![alt text](GS_2SEM_Dynamic_Programming/Graph1.png)
 
 ### Conclusões
 
