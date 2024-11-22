@@ -43,7 +43,7 @@ A partir das variações de custos acumulados ao longo do tempo, a análise grá
 
 ### Resultado
 
-![alt text](Graph2.png)
+![alt text](GS_2SEM_Dynamic_Programming/Graph2.png)
 
 ### Conclusões
 
@@ -62,7 +62,7 @@ Ao utilizar a técnica de Dividir para Conquistar, podemos estruturar a análise
 
 ### Resultado
 
-![alt text](image3.png)
+![alt text](GS_2SEM_Dynamic_Programming/image3.png)
 
 ### Conclusões
 
@@ -79,7 +79,7 @@ Em todos os exemplos (simulando 5, 15, 25 e 35 anos), o tempo de execução foi 
 
 ### Resultado
 
-![alt text](Graph4.png) ![alt text](Graph4.1.png)
+![alt text](GS_2SEM_Dynamic_Programming/Graph4.png) ![alt text](GS_2SEM_Dynamic_Programming/Graph4.1.png)
 
 ### Conclusões
 
